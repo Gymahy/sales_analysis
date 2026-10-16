@@ -1,0 +1,23 @@
+# Isolated Python environments
+/.env/
+/.venv/
+/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Regenerated analysis output; docs/dashboard.png is the published preview
+/reports/
+
+# Local IDE and OS settings
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+
+# Local publication checklist
+/GITHUB_FILES.md
